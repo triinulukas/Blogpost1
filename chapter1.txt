@@ -1,1 +1,2 @@
-This is my new blogpost.
+
+This is my better new blogpost.
